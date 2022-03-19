@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EidReaderApplication", "EidReaderApplication.csproj", "{B34188A9-215C-4AB9-84A2-468D304AF265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34188A9-215C-4AB9-84A2-468D304AF265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34188A9-215C-4AB9-84A2-468D304AF265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34188A9-215C-4AB9-84A2-468D304AF265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34188A9-215C-4AB9-84A2-468D304AF265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C310564-14C5-4692-A390-F6DBAC24BC3A}
+	EndGlobalSection
+EndGlobal

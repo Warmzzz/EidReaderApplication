@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uHtSjyVojJ1POYTCgSMKUCLWvdv0c0PNGcCnsJ2C/jSU34+trTYSa53n6iXslAUADjPSKXMbJx7+IPjJzGEAxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laurence\\Desktop\\Codage\\C#\\EidReaderApplication\\EidReaderApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laurence\\.nuget\\packages\\egelke.eid.client\\1.2.0\\egelke.eid.client.1.2.0.nupkg.sha512",
+    "C:\\Users\\Laurence\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Laurence\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Laurence\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
